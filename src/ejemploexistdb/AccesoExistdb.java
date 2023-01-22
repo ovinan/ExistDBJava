@@ -12,7 +12,7 @@ import org.xmldb.api.*;
  * y EXIST-CORE.
  * (2) Crear una coleccion llamada PRUEBAS, con un documento libros.xml
  * 
- * @author oscar
+ * @author ovinan
  */
 public class AccesoExistdb {
         protected static String DRIVER = "org.exist.xmldb.DatabaseImpl"; 
